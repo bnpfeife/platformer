@@ -1,0 +1,5 @@
+brace_style = "AlwaysNextLine"
+max_width = 80
+struct_field_align_threshold = 40
+struct_lit_single_line = false
+tab_spaces = 2
